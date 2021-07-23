@@ -1,0 +1,29 @@
+.navbar img{
+    width : 100px;
+    height : 70px;
+    border-radius: "100px"
+}
+img{
+    width: inherit;
+    min-height: 100%;
+}
+body{
+    margin-bottom: 10px;
+    background-color: rgb(196, 241, 158);
+    color: white;
+}
+
+.borderless td, .borderless th {  /* remove default cell border */
+    border: none;
+} 
+
+.checked {
+    color : #e92222;;
+    font-size : 20px;
+}
+.unchecked {
+    font-size : 20px;
+    color:rgb(247, 244, 244);
+}
+
+ 
